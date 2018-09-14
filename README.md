@@ -1,0 +1,3 @@
+# WxtiaoyitiaoLaya
+拉雅版tiaoyitiao
+js文件复制至LayaAir项目中的src目录中，jump目录复制至LayaAir项目中的bin目录中即可；
